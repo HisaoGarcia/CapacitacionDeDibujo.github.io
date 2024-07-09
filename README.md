@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<BODY BACKGROUND="https://i.pinimg.com/564x/35/f4/b7/35f4b701240293cb702fbe9c0558c7e0.jpg"> 
-
+<body BACKGROUND="https://i.pinimg.com/564x/35/f4/b7/35f4b701240293cb702fbe9c0558c7e0.jpg"> 
+ 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/">
+    <link rel="shortcut icon" href="img/" type="image/x-icon">
     <title>Capacitación en Dibujo Técnico Industrial</title>
     <style>
         body {
@@ -145,6 +147,6 @@
 
 <P style="background-color:#FFFFFF;border:5px solid;"class:"calibri">PARA MÁS INFORMACIÓN PUEDE COMUNICARSE POR:<BR>
 <A HREF="diaz:plantel34@cobaev.edu.mx">plantel34@cobaev.edu.mx</A></P>
-
+    
 </body>
 </html>
